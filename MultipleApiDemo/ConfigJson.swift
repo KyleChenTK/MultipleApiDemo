@@ -21,3 +21,10 @@ final class UserManageData: Codable {
     }
 
 }
+
+final class BodyDataResult: Codable {
+
+    var status: String?
+
+    var message: String?
+}
