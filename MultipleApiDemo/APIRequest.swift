@@ -7,7 +7,7 @@
 
 import Foundation
 import UIKit
-
+//API Demo
 enum APIurl: String {
     //employee manage page personal Data
     case userManageData = "http://temp1.reformind.com/api/v2/user/userDetail"
